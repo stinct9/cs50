@@ -1,0 +1,19 @@
+0.  JPEG, BMP, & PNG supports 16 million colours. GIF supports 256 colours.
+1.  GIF supports animation
+2.  Lossy compression discards infomation that may not be visible to human eye to achieve compression.  Lossless compression try and reduce filesize without losing image quality.
+3.  JPEG is lossy-compressed
+4.  When a file is deleted, basically the metadata pointing towards the file or the pointer to the file is deleted but the file itself is not unless it is overwritted with other data.
+5.  To make sure the data is not recoverable, overwrite the entire disk with zeros. Make multiple passes of the disk doing the same.
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
